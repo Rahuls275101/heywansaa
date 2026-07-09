@@ -1,0 +1,39 @@
+*************** Location  apps\config\routes.php  ************************
+
+
+
+$string = "ssssss-dkm-skm_123/ssk";
+	
+if(preg_match('/[^a-z_\-0-9\/\/]/i', $string))
+{
+
+  echo "not valid string";
+
+}
+
+
+
+
+$route['default_controller']    = "home";
+$route['sitepanel/(:any)']		= "sitepanel/$1";
+
+$route['seo/sitemap\.xml']      = "seo/sitemap";
+
+
+$route['(contactus)'] 			        = 'pages/contactus/$1';
+$route['(privacy)'] 			        = 'pages/index/$1';
+$route['(terms_conditions)'] 			= 'pages/index/$1';
+$route['(return_and_exchange)'] 		= 'pages/index/$1';
+$route['(mode_of_payment)'] 			= 'pages/index/$1';
+$route['(aboutus)'] 			        = 'pages/index/$1';
+
+
+$route['products/(:any)/(:any)/(:num)?']   = 'products/index/$1/$2/$3';
+$route['products/(:any)/(:num)?']          = 'products/index/$1/$2';
+$route['products/(:any)?']                 = 'products/detail/$1';
+
+
+$route['^((?!users|order|members|albums|videos|products|testimonials|help|home|messages|pages|pages|remote|sitepanel|payment).*$)'] = "category/index/$1";
+
+
+$route['404_override'] = '';

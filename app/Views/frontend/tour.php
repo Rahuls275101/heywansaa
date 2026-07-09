@@ -1,0 +1,1 @@
+<?php echo $franchise->cms_page_description; ?>

@@ -1,0 +1,1208 @@
+CRITICAL - 2026-06-06 00:04:43 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:04:43 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:04:43 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:04:43 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:04:55 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:06:06 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:06:06 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:06:06 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:06:06 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:06:09 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:06:09 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:06:09 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:06:09 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:07:16 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:07:16 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:07:16 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:07:16 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:09:34 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:09:34 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:09:34 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:09:34 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:11:00 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:11:00 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:11:00 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:11:00 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:12:39 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:12:39 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:12:39 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:12:39 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:12:51 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:12:51 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:12:51 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:12:51 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:13:58 --> Undefined variable $total_cart_amount
+in APPPATH/Controllers/Ajex.php on line 214.
+ 1 APPPATH/Controllers/Ajex.php(214): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Ajex->my_cart_list()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:14:33 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:14:33 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:14:33 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:14:33 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:14:49 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:14:49 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:14:49 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:14:49 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5054.
+ 1 APPPATH/Controllers/Admin.php(5054): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:20:28 --> Cannot redeclare App\Controllers\Admin::password_manage_process()
+in APPPATH/Controllers/Admin.php on line 493.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-06-06 00:33:36 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:33:36 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:33:36 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:33:36 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:33:46 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:33:46 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:33:46 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:33:46 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:35:28 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:35:28 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:35:28 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:35:28 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:35:38 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:35:38 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:35:38 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:35:38 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:40:25 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:40:25 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:40:25 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:40:25 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:40:36 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:40:36 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:40:36 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:40:36 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:42:49 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:42:49 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:42:49 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:42:49 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:44:17 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:44:17 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:44:17 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 00:44:17 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:17:38 --> Undefined variable $total_cart_amount
+in APPPATH/Controllers/Ajex.php on line 214.
+ 1 APPPATH/Controllers/Ajex.php(214): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Ajex->my_cart_list()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:17:49 --> Undefined variable $total_cart_amount
+in APPPATH/Controllers/Ajex.php on line 214.
+ 1 APPPATH/Controllers/Ajex.php(214): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Ajex->my_cart_list()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:21:38 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:21:38 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:21:38 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:21:38 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:21:50 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:21:50 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:21:50 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:21:50 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:22:44 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:22:44 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:22:44 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:22:44 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:22:55 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:22:55 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:22:55 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:22:55 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:23:25 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:23:25 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:23:25 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:23:25 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:23:35 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:23:35 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:23:35 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:23:35 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:24:37 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:24:37 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:24:37 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:24:37 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:25:11 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:25:11 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:25:11 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:25:11 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:26:34 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:26:34 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:26:34 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:26:34 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:30:34 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:30:41 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:30:41 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:30:41 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:30:41 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:30:51 --> Undefined property: stdClass::$order_id
+in APPPATH/Views/admin/order_details.php on line 188.
+ 1 APPPATH/Views/admin/order_details.php(188): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/order_details.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Admin.php(5048): view()
+ 6 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 7 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:31:04 --> Undefined property: stdClass::$order_id
+in APPPATH/Views/admin/order_details.php on line 188.
+ 1 APPPATH/Views/admin/order_details.php(188): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/order_details.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Admin.php(5048): view()
+ 6 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 7 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:32:33 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:32:33 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:32:33 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:32:33 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:32:43 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:32:43 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:32:43 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:32:43 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:33:44 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:33:44 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:33:44 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:33:44 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2026-06-06 01:35:11 --> mysqli_sql_exception: Unknown column 'ship_track_response' in 'SET' in /home/pk8cb9qhbiyn/public_html/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/pk8cb9qhbiyn/public_html/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/pk8cb9qhbiyn/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/pk8cb9qhbiyn/public_html/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/pk8cb9qhbiyn/public_html/system/Database/BaseBuilder.php(2079): CodeIgniter\Database\BaseConnection->query()
+#4 /home/pk8cb9qhbiyn/public_html/app/Models/Commanmodel.php(306): CodeIgniter\Database\BaseBuilder->update()
+#5 /home/pk8cb9qhbiyn/public_html/app/Controllers/Admin.php(6465): App\Models\Commanmodel->update_query()
+#6 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(925): App\Controllers\Admin->track_xpressbees_shipment()
+#7 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+#8 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/pk8cb9qhbiyn/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2026-06-06 01:35:19 --> mysqli_sql_exception: Unknown column 'ship_track_response' in 'SET' in /home/pk8cb9qhbiyn/public_html/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/pk8cb9qhbiyn/public_html/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/pk8cb9qhbiyn/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/pk8cb9qhbiyn/public_html/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/pk8cb9qhbiyn/public_html/system/Database/BaseBuilder.php(2079): CodeIgniter\Database\BaseConnection->query()
+#4 /home/pk8cb9qhbiyn/public_html/app/Models/Commanmodel.php(306): CodeIgniter\Database\BaseBuilder->update()
+#5 /home/pk8cb9qhbiyn/public_html/app/Controllers/Admin.php(6465): App\Models\Commanmodel->update_query()
+#6 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(925): App\Controllers\Admin->track_xpressbees_shipment()
+#7 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+#8 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/pk8cb9qhbiyn/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2026-06-06 01:36:17 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:36:17 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:36:18 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:36:18 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2026-06-06 01:39:28 --> mysqli_sql_exception: Unknown column 'ship_track_response' in 'SET' in /home/pk8cb9qhbiyn/public_html/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/pk8cb9qhbiyn/public_html/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/pk8cb9qhbiyn/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/pk8cb9qhbiyn/public_html/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/pk8cb9qhbiyn/public_html/system/Database/BaseBuilder.php(2079): CodeIgniter\Database\BaseConnection->query()
+#4 /home/pk8cb9qhbiyn/public_html/app/Models/Commanmodel.php(306): CodeIgniter\Database\BaseBuilder->update()
+#5 /home/pk8cb9qhbiyn/public_html/app/Controllers/Admin.php(6467): App\Models\Commanmodel->update_query()
+#6 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(925): App\Controllers\Admin->track_xpressbees_shipment()
+#7 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+#8 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/pk8cb9qhbiyn/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2026-06-06 01:40:31 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:40:31 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:40:31 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:40:31 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2026-06-06 01:40:36 --> mysqli_sql_exception: Unknown column 'ship_track_response' in 'SET' in /home/pk8cb9qhbiyn/public_html/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/pk8cb9qhbiyn/public_html/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/pk8cb9qhbiyn/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/pk8cb9qhbiyn/public_html/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/pk8cb9qhbiyn/public_html/system/Database/BaseBuilder.php(2079): CodeIgniter\Database\BaseConnection->query()
+#4 /home/pk8cb9qhbiyn/public_html/app/Models/Commanmodel.php(306): CodeIgniter\Database\BaseBuilder->update()
+#5 /home/pk8cb9qhbiyn/public_html/app/Controllers/Admin.php(6467): App\Models\Commanmodel->update_query()
+#6 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(925): App\Controllers\Admin->track_xpressbees_shipment()
+#7 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+#8 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/pk8cb9qhbiyn/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2026-06-06 01:40:53 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:40:53 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:40:53 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:40:53 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2026-06-06 01:41:03 --> mysqli_sql_exception: Unknown column 'ship_track_response' in 'SET' in /home/pk8cb9qhbiyn/public_html/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/pk8cb9qhbiyn/public_html/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/pk8cb9qhbiyn/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/pk8cb9qhbiyn/public_html/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/pk8cb9qhbiyn/public_html/system/Database/BaseBuilder.php(2079): CodeIgniter\Database\BaseConnection->query()
+#4 /home/pk8cb9qhbiyn/public_html/app/Models/Commanmodel.php(306): CodeIgniter\Database\BaseBuilder->update()
+#5 /home/pk8cb9qhbiyn/public_html/app/Controllers/Admin.php(6467): App\Models\Commanmodel->update_query()
+#6 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(925): App\Controllers\Admin->track_xpressbees_shipment()
+#7 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+#8 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/pk8cb9qhbiyn/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2026-06-06 01:41:08 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:41:08 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:41:08 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:41:08 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Admin.php on line 5035.
+ 1 APPPATH/Controllers/Admin.php(5035): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Admin->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:44:40 --> Undefined variable $total_cart_amount
+in APPPATH/Controllers/Ajex.php on line 214.
+ 1 APPPATH/Controllers/Ajex.php(214): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Ajex->my_cart_list()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:44:53 --> Undefined variable $total_cart_amount
+in APPPATH/Controllers/Ajex.php on line 214.
+ 1 APPPATH/Controllers/Ajex.php(214): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Ajex->my_cart_list()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:45:13 --> Undefined variable $total_cart_amount
+in APPPATH/Controllers/Ajex.php on line 214.
+ 1 APPPATH/Controllers/Ajex.php(214): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Ajex->my_cart_list()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:45:19 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Dashboard.php on line 547.
+ 1 APPPATH/Controllers/Dashboard.php(547): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Dashboard->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:45:19 --> Attempt to read property "booking_product_vender" on null
+in APPPATH/Controllers/Dashboard.php on line 547.
+ 1 APPPATH/Controllers/Dashboard.php(547): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Dashboard->order_details()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:45:19 --> Undefined variable $total_cart_amount
+in APPPATH/Controllers/Ajex.php on line 214.
+ 1 APPPATH/Controllers/Ajex.php(214): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Ajex->my_cart_list()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:45:25 --> Undefined variable $total_cart_amount
+in APPPATH/Controllers/Ajex.php on line 214.
+ 1 APPPATH/Controllers/Ajex.php(214): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Ajex->my_cart_list()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 01:45:51 --> Undefined variable $total_cart_amount
+in APPPATH/Controllers/Ajex.php on line 214.
+ 1 APPPATH/Controllers/Ajex.php(214): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Ajex->my_cart_list()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2026-06-06 01:45:54 --> mysqli_sql_exception: Unknown column 'ship_track_response' in 'SET' in /home/pk8cb9qhbiyn/public_html/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/pk8cb9qhbiyn/public_html/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/pk8cb9qhbiyn/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/pk8cb9qhbiyn/public_html/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/pk8cb9qhbiyn/public_html/system/Database/BaseBuilder.php(2079): CodeIgniter\Database\BaseConnection->query()
+#4 /home/pk8cb9qhbiyn/public_html/app/Models/Commanmodel.php(306): CodeIgniter\Database\BaseBuilder->update()
+#5 /home/pk8cb9qhbiyn/public_html/app/Controllers/Admin.php(6467): App\Models\Commanmodel->update_query()
+#6 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(925): App\Controllers\Admin->track_xpressbees_shipment()
+#7 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+#8 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/pk8cb9qhbiyn/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2026-06-06 01:46:04 --> Undefined variable $total_cart_amount
+in APPPATH/Controllers/Ajex.php on line 214.
+ 1 APPPATH/Controllers/Ajex.php(214): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Ajex->my_cart_list()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2026-06-06 01:46:09 --> mysqli_sql_exception: Unknown column 'ship_track_response' in 'SET' in /home/pk8cb9qhbiyn/public_html/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/pk8cb9qhbiyn/public_html/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/pk8cb9qhbiyn/public_html/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/pk8cb9qhbiyn/public_html/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/pk8cb9qhbiyn/public_html/system/Database/BaseBuilder.php(2079): CodeIgniter\Database\BaseConnection->query()
+#4 /home/pk8cb9qhbiyn/public_html/app/Models/Commanmodel.php(306): CodeIgniter\Database\BaseBuilder->update()
+#5 /home/pk8cb9qhbiyn/public_html/app/Controllers/Admin.php(6467): App\Models\Commanmodel->update_query()
+#6 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(925): App\Controllers\Admin->track_xpressbees_shipment()
+#7 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+#8 /home/pk8cb9qhbiyn/public_html/system/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/pk8cb9qhbiyn/public_html/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2026-06-06 01:46:15 --> Undefined variable $total_cart_amount
+in APPPATH/Controllers/Ajex.php on line 214.
+ 1 APPPATH/Controllers/Ajex.php(214): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Ajex->my_cart_list()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2026-06-06 06:25:33 --> Undefined variable $total_cart_amount
+in APPPATH/Controllers/Ajex.php on line 214.
+ 1 APPPATH/Controllers/Ajex.php(214): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(925): App\Controllers\Ajex->my_cart_list()
+ 3 SYSTEMPATH/CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

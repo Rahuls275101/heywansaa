@@ -1,0 +1,140 @@
+<?php
+$this->load->view('includes/top');
+$pagesection = $this->config->item('bannersections');
+?>
+<!--  BEGIN MAIN CONTAINER  -->
+<link rel="stylesheet" type="text/css" href="<?php echo admin_url(); ?>assets/css/forms/switches.css">
+<div class="main-container" id="container">
+  <div class="overlay"></div>
+  <div class="search-overlay"></div>
+  <?php $this->load->view('includes/left'); ?>
+  <!--  BEGIN CONTENT AREA  -->
+  <div id="content" class="main-content">
+    <div class="layout-px-spacing">
+      <div class="row layout-top-spacing layout-spacing">
+        <div class="col-lg-12">
+          <div class="statbox widget box box-shadow">
+            <?php
+            echo success_message();
+            ?>
+            <div class="widget-header">
+              <div class="row">
+                <div class="col-xl-8 col-md-8 col-sm-8 col-8">
+                  <h4><?php echo $headingTitle; ?></h4>
+                </div>
+                <div class="col-xl-4 col-md-4 col-sm-4 col-4 text-right">
+                  <h4><a href="<?php echo base_url(); ?>wps-admin/banners/add/" class="btn btn-dark btn-sm mb-2"><i class="fa fa-plus"></i> Add New Banner</a></h4>
+                </div>
+              </div>
+            </div>
+            <div class="widget-content widget-content-area">
+              <div class="table-responsive mb-4">
+                <?php
+                if (is_array($res) && !empty($res)) {
+                  echo form_open(base_url() . "wps-admin/banners/", 'id="data_form"');
+                  ?>
+                  <table id="style-3" class="table style-3  table-hover">
+                    <thead>
+                      <tr>
+                        <th class="checkbox-column text-left"> 
+                          <label class="new-control new-checkbox checkbox-outline-info  m-auto">
+                            <input type="checkbox" onclick="$('input:checkbox').not(this).prop('checked', this.checked);" class="new-control-input child-chk select-customers-info" id="customer-all-info">
+                            <span class="new-control-indicator"></span><span style="visibility:hidden">c</span>
+                          </label>
+                        </th>
+                        <th>Banner Title</th>
+                        <th>Banner Position</th>
+                        <th>Banner Picture</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <?php
+                      foreach ($res as $catKey => $pageVal) {
+                        ?>
+                        <tr>
+                          <td class="checkbox-column text-left"> 
+                            <label class="new-control new-checkbox checkbox-outline-info  m-auto">
+                              <input type="checkbox" type="checkbox" name="arr_ids[]" value="<?php echo $pageVal['banner_id']; ?>" class="new-control-input child-chk select-customers-info">
+                              <span class="new-control-indicator"></span><span style="visibility:hidden">c</span>
+                            </label>                            
+                          </td>
+                          <td>
+                            <?php echo $pageVal['banner_title']; ?>
+                          </td>
+                          <td>
+                            <?php echo $pageVal['banner_position']; ?> (<?php echo (array_key_exists($pageVal['banner_page'], $pagesection) ? $pagesection[$pageVal['banner_page']] : "-"); ?>)
+                          </td>
+                         
+                          <td>
+                            <?php
+                            $product_path = "banner/" . $pageVal['banner_image'];
+                            ?>
+                            <img src="<?php echo base_url() . 'uploaded-files/' . $product_path; ?>" class="img-responsive img-rounded center-block" width="250" alt="" /> 
+                          </td>
+                          
+                          <td><?php echo ($pageVal['status'] == 1) ? "Active" : "In-active"; ?></td>
+                          <td>
+                            <a href="<?php echo base_url(); ?>wps-admin/banners/edit/<?php echo $pageVal['banner_id']; ?>" class="btn btn-success btn-sm mb-2">Edit</a>
+                          </td>
+                        </tr>
+                      
+                      <?php
+                    }
+                    ?>
+                    </tbody>
+                  </table>
+                  <div class="widget-content widget-content-area text-left split-buttons">
+                    <input name="status_action" type="submit"  value="Activate" class="btn btn-success mb-2" id="Activate" onClick="return validcheckstatus('arr_ids[]', 'Activate', 'Record', 'data_form');"/>
+                    <input name="status_action" type="submit" class="btn btn-warning mb-2" value="Deactivate" id="Deactivate"  onClick="return validcheckstatus('arr_ids[]', 'Deactivate', 'Record', 'data_form');"/>
+                    <input name="status_action" type="submit" class="btn btn-danger mb-2" id="Delete" value="Delete"  onClick="return validcheckstatus('arr_ids[]', 'Delete', 'Record', 'data_form');"/>
+                    <input type="hidden" name="action" id="actionInput" value="" />
+                  </div>
+                  <?php
+                  echo form_close();
+                } else {
+                  ?>
+                  <div class="alert alert-arrow-right alert-icon-right alert-light-primary mb-4" role="alert">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-alert-circle"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12" y2="16"></line></svg>
+                    <strong>Warning!</strong> No Record(s) Found!
+                  </div>
+                  <?php
+                }
+                ?>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-wrapper">
+      <div class="footer-section f-section-1">
+          <p class="terms-conditions">All Rights Reserved. Powered By <a href="https://www.weblieu.com/" target="_blank">weblieu</a></p>
+      </div>
+      <div class="footer-section f-section-2">
+        <p class="">Coded with <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-heart"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></p>
+      </div>
+    </div>
+  </div>
+  <!--  END CONTENT AREA  -->
+</div>
+<!-- END MAIN CONTAINER -->
+<?php $this->load->view('includes/bottom'); ?>
+<script type="text/javascript">
+  c3 = $('#style-3').DataTable({
+    "oLanguage": {
+      "oPaginate": {"sPrevious": '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-left"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>', "sNext": '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>'},
+      "sInfo": "Showing page _PAGE_ of _PAGES_",
+      "sSearch": '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>',
+      "sSearchPlaceholder": "Search...",
+      "sLengthMenu": "Results :  _MENU_",
+    },
+    "stripeClasses": [],
+    "lengthMenu": [20, 40, 80, 150, 200],
+    "pageLength": 20
+  });
+
+  multiCheck(c3);
+</script>
+<?php die(); ?>
